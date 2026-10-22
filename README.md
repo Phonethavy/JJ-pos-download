@@ -5,7 +5,7 @@ Restaurant POS that runs on the shop's own Windows computer — no server to ren
 
 ## ⬇️ ດາວໂຫຼດເວີຊັນລ່າສຸດ / Latest version
 
-**[ChampaLaoPOS-Setup.exe](https://github.com/Phonethavy/JJ-pos-download/releases/latest/download/ChampaLaoPOS-Setup.exe)**
+**[JJ_POS-Setup.exe](https://github.com/Phonethavy/JJ-pos-download/releases/latest/download/ChampaLaoPOS-Setup.exe)**
 
 ທຸກເວີຊັນ / All versions: [Releases](https://github.com/Phonethavy/JJ-pos-download/releases)
 

@@ -9,6 +9,9 @@ Restaurant POS that runs on the shop's own Windows computer — no server to ren
 
 ທຸກເວີຊັນ / All versions: [Releases](https://github.com/Phonethavy/JJ-pos-download/releases)
 
+**[ດາວໂຫລດຄູ່ມື]([Uploading POS-User-Manual-LA.pdf…]())
+
+
 ## ວິທີຕິດຕັ້ງ / How to install
 
 1. ເປີດໄຟລ໌ `ChampaLaoPOS-Setup.exe` → Next → Finish (Windows 10/11, 64-bit)

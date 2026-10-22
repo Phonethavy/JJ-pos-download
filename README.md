@@ -9,7 +9,7 @@ Restaurant POS that runs on the shop's own Windows computer — no server to ren
 
 ທຸກເວີຊັນ / All versions: [Releases](https://github.com/Phonethavy/JJ-pos-download/releases)
 
-**[ດາວໂຫລດຄູ່ມື]([[Uploading POS-User-Manual-LA.pdf…]()](https://drive.google.com/drive/folders/1a4YWyfQKhEy_TmKPAlI_nN1JbDRgjfsN?usp=sharing))
+**[ດາວໂຫລດຄູ່ມື]((https://drive.google.com/drive/folders/1a4YWyfQKhEy_TmKPAlI_nN1JbDRgjfsN?usp=sharing))
 
 
 ## ວິທີຕິດຕັ້ງ / How to install
